@@ -6,7 +6,7 @@ return [
     'alert_text' => 'This website uses cookies to improve your browsing experience. By clicking on ‘Agree’, you accept the use of these cookies.',
     'alert_title' => 'This website uses cookies',
     'setting_analytics' => 'Analytical cookies',
-    'setting_analytics_text' => 'allow us to analyse website use and to improve the visitor\'s experience.',
+    'setting_analytics_text' => 'allow us to analyze website use and to improve the visitor\'s experience.',
     'setting_essential' => 'Functional cookies',
     'setting_essential_text' => 'are essential cookies that ensure that the website functions properly and that your preferences (e.g. language, region) are saved.',
     'setting_marketing' => 'Marketing cookies',
